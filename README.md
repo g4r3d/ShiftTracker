@@ -3,7 +3,7 @@
 > Настольное приложение для учёта производственных смен на промышленных предприятиях.  
 > Учёт плавок, тиглей, сотрудников и заказчиков с экспортом в Excel.
 
-![Version](https://img.shields.io/badge/version-10.0-blue?style=flat-square)
+![Version](https://img.shields.io/badge/version-10.0.2-blue?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3.10%2B-green?style=flat-square)
 
